@@ -2,13 +2,15 @@
 # 收藏我平时觉得值得一看的电子书
 
 ## 任务清单
-- [ ] [龙书](./计算机网络类/编译原理(龙书)%20第二版.pdf)
-  [习题答案](https://github.com/ZebinGao/dragon-book-exercise-answers)
+- [ ] [龙书](./计算机网络类/编译原理(龙书)%20第二版.pdf): 
+  [习题答案](https://github.com/ZebinGao/dragon-book-exercise-answers) |
+  [个人练习解答](https://github.com/ZebinGao/ZebinGao/tree/main/dragon-books-readnote) 
 - [ ] [人工智能](./计算机网络类/人工智能：一种现代的方法（第３版）.pdf)  
 - [ ] [数据挖掘导论完整版](./计算机网络类/数据挖掘导论%20%20完整版.pdf)  
 - [ ] [程序员修炼之道](./计算机网络类/程序员修炼之道：从小工到专家.pdf)  
 - [ ] [大型网站技术架构](./计算机网络类//大型网站技术架构：核心原理与案例分析.pdf)  
-- [ ] [CS61A自学网站](https://csdiy.wiki/)  
+- [ ] [CS61A自学网站](https://csdiy.wiki/), 
+  [github自学仓库](https://github.com/PKUFlyingPig/cs-self-learning)
 - 
 - [X] [俞敏洪口述传记](./个人成长类/俞敏洪口述-在痛苦的世界里尽力而为-俞敏洪-扫描版.pdf)  
 - [ ] [胡雪岩传记](./个人成长类/红顶商人胡雪岩.txt)  
